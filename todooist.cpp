@@ -18,6 +18,7 @@ int main ()
     }
    if(choice==1)
    {
+       //this part is written by the PC.
     cout<<"\n Enter The Task :"<<endl;
     cin>>task[i];
     getline(cin,task[i]);
